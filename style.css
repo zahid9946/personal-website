@@ -1,0 +1,80 @@
+
+section{
+    height: 400px;   
+}
+p{
+    padding-bottom:50px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(236, 75, 117);
+}
+h2{
+    font-size: 40px;
+    padding-top: 60px;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-color:  rgb(236, 75, 117);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    margin-bottom: 311px;
+}
+body{font-family: 'Rubik', sans-serif;
+    margin: 0%;
+        
+    }
+.back{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+}
+#bio{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+.mid{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+    
+}
+
+#latest{
+    text-align: center;
+    margin-top: 400px;
+}
+.three{
+    width: 27%;
+    float: left;
+    margin-left: 5%;
+}
+.im{
+    width: 100%;
+}
+.latest-work{
+    background-image: url(latest-work-bg.png);
+    padding-top: 150px;
+}
+.client{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: git commit -m "first commit"px;
+}
+.box{
+    background-color: hotpink;
+    border-radius: 20px;
+    padding-top: 10px;
+    
+}
